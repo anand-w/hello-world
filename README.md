@@ -1,2 +1,7 @@
 # hello-world
-Here's a short description
+hey there, peace out.
+
+
+
+hi humans !
+Hubot here . I like everything 
